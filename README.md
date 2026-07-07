@@ -98,6 +98,6 @@ http://127.0.0.1:8000/
 4. The itinerary agent assembles a realistic day-by-day plan.
 5. The final agent compiles everything into a polished, user-facing response.
 
-![TravelHive Website Image](<Screenshot 2026-07-06 at 10.11.13 PM.png>)
-![Response1](<Screenshot 2026-07-06 at 10.16.16 PM.png>)
-![Response2](<Screenshot 2026-07-06 at 10.16.29 PM.png>)
+![TravelHive Website Image](</static/images/website.png>)
+![Response1](</static/images/Response1.png>)
+![Response2](</static/images/Response2.png>)
