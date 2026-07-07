@@ -99,3 +99,5 @@ http://127.0.0.1:8000/
 5. The final agent compiles everything into a polished, user-facing response.
 
 ![TravelHive Website Image](<Screenshot 2026-07-06 at 10.11.13 PM.png>)
+![Response1](<Screenshot 2026-07-06 at 10.16.16 PM.png>)
+![Response2](<Screenshot 2026-07-06 at 10.16.29 PM.png>)
