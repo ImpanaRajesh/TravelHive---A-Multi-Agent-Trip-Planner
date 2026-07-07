@@ -4,7 +4,7 @@ TravelHive AI is an open-source travel planning assistant that converts a simple
 
 ## The Problem It Solves
 
-Booking a trip usually means bouncing between flight search engines, hotel comparison sites, and manually stitched-together itineraries. TripMate AI consolidates that entire process into a single conversational experience by orchestrating four specialized agents:
+Booking a trip usually means bouncing between flight search engines, hotel comparison sites, and manually stitched-together itineraries. TravelHive AI consolidates that entire process into a single conversational experience by orchestrating four specialized agents:
 
 - a **flight-search agent** that finds relevant flight options,
 - a **hotel-research agent** that surfaces accommodation suggestions,
@@ -98,3 +98,4 @@ http://127.0.0.1:8000/
 4. The itinerary agent assembles a realistic day-by-day plan.
 5. The final agent compiles everything into a polished, user-facing response.
 
+![TravelHive Website Image](<Screenshot 2026-07-06 at 10.11.13 PM.png>)
